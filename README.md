@@ -1,10 +1,10 @@
 ### Hi there 👋
 💻 I am software developer.
 
-🌱 I’m currently learning Java backend development
-🔭 I’m currently studying at programming "School 21"
-💼 I’m looking for a internship
-📫 How to reach me: kuleshov-as@mail.ru
+- 🌱 I’m currently learning Java backend development
+- 🔭 I’m currently studying at programming "School 21"
+- 💼 I’m looking for a internship
+- 📫 How to reach me: kuleshov-as@mail.ru
 
 🔈 Telegram: [@artem_181](https://t.me/artem_181)
 
