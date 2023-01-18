@@ -1,7 +1,7 @@
 ### Hi there 👋
 💻 I am software developer.
 
-- 🌱 I’m currently learning PHP backend development
+- 🌱 I’m currently learning Mobile development
 - 🔭 I’m currently studying at programming "School 21"
 - 💼 I’m looking for a internship
 - 📫 How to reach me: kuleshov-as@mail.ru
