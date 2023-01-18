@@ -1,10 +1,10 @@
-### Hi there 👋
-💻 I am software developer.
+### Здравствуйте 👋
+💻 Меня зовут Артем, я начинающий разработчик ПО.
 
-- 🌱 I’m currently learning PHP-backend development
-- 🔭 I’m currently studying at programming "School 21"
-- 💼 I’m looking for a internship
-- 📫 How to reach me: kuleshov-as@mail.ru
+- 🌱 Я изучаю мобильную разработку
+- 🔭 Я учусь в "Школа программирования 21"
+- 💼 Я ищу стажировку
+- 📫 Моя почта: kuleshov-as@mail.ru
 
 🔈 Telegram: [@artem_181](https://t.me/artem_181)
 
