@@ -15,7 +15,7 @@
 Проект | Краткое описание | Стек | Комментарий
 --------|-----------------|------|-------
 [Web-application](https://github.com/levifeyd/Web-application) | Веб-приложение, которое помогает разместить объявление о своих коммерческих услугах, содержит административную панель. | PHP, HTML CSS, SQL(MySQL)| Использовался локальный сервер OpenServer, административная панель позволяет редактировать содержимое сайта с объявлением. Для хранения данных использовал базу данных MySQL.(проект на этапе разработки)
-[SimpleAuthorization](https://github.com/levifeyd/SimpleAuthorization) | Простая страничка с формой для регистрации и авторизации на сайте| PHP, HTML CSS, SQL(MySQL)| Использовался локальный сервер OpenServer.
+[SimpleAuthorization](https://github.com/levifeyd/SimpleAuthorization) | Простая страничка с формой для регистрации и авторизации на сайте| PHP, HTML CSS, SQL(MySQL)| Использовался локальный сервер OpenServer. Для стилей фреймворк bootsrap.
 [MobileExcnageRate](https://github.com/levifeyd/MobileExcnageRate) | Мобильное приложение, котороые помогает узнать курс валют | Kotlin (Retrofit, coroutines) | Прилоежние подключается к API "Приват Банк", делает запрос на получение данныз о курсе валют
 [Project_App](https://github.com/levifeyd/Project_App) |Мобильное приложение на Java, которе позволяет выбрать по выбранным фильтрам рандомный фильм| Java (Async Task), SQL(SQlite) | Приложение подключается к API "Кинопоиск" и деалет запрос для получения данных о рандомном фильме по выбранным фильтрам.
 [SmartCalc](https://github.com/levifeyd/Smart_calculator) | Десктоп приложение калькулятор с графическим интерфейсом, считающий сложные выражения| C, C++, Qt | В репозитории есть сборки для мака (macOS), а также исходный код
