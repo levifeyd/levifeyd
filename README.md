@@ -10,7 +10,7 @@
 
 Проект | Краткое описание | Стек | Комментарий
 --------|-----------------|------|-------
-[TestTaskOnlyDigital](https://github.com/levifeyd/TestTaskOnlyDigital) | Тестовое задание на стажировку| Laravel, PHP, SQL(MySQL)| Реализация API сервиса на Laravel
+[TestTaskOnlyDigital](https://github.com/levifeyd/TestTaskOnlyDigital) | Тестовое задание для компании OnlyDigital| Laravel, PHP, SQL(MySQL)| Реализация API сервиса на Laravel
 [LegalConsultation](https://github.com/levifeyd/LegalConsultation) | Тестовое задание.Задание включает в себя web-приложение для клиента и юриста.| PHP,Laravel,HTML, CSS, Ajax,JQuery,SQL | Клиент оставялет заявку по катеогрии и юристы могут отвечать на заявки.В личном кабинете можно фильтровать заявки для роли клиента и роли юриста.
 [TestTask](https://github.com/levifeyd/TestTask) | Тестовое задание на стажировку| Laravel, PHP, HTML CSS, SQL(MySQL), bootsrap| Ссылка на домен https://laravel-b8vz.frb.io/. Приложение включает : (Авторизацию + Регистрацию), две роли : Пользователь и Менеджер, форма обратной связи, страницу со списком заявок на обюратную связь и отправкой email на почту Менеджера.
 [Web-application](https://github.com/levifeyd/Web-application) | Веб-приложение, которое помогает разместить объявление о своих коммерческих услугах, содержит административную панель. | PHP, HTML CSS, SQL(MySQL)| Использовался локальный сервер OpenServer, административная панель позволяет редактировать содержимое сайта с объявлением. Для хранения данных использовал базу данных MySQL.
