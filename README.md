@@ -10,8 +10,8 @@
 
 Проект | Краткое описание | Стек | Комментарий
 --------|-----------------|------|-------
-[LegalConsultation](https://github.com/levifeyd/LegalConsultation) | Тестовое задание.Задание включает в себя web-приложение для клиента и юриста.| PHP,Laravel,HTML, CSS, Ajax,JQuery,SQL | Клиент оставялет заявку по катеогрии и юристы могут отвечать на заявки.В личном кабинете можно фильтровать заявки для роли клиента и роли юриста.
 [TestTaskOnlyDigital](https://github.com/levifeyd/TestTaskOnlyDigital) | Тестовое задание на стажировку| Laravel, PHP, HTML CSS, SQL(MySQL), bootsrap| Реализация API сервиса на Laravel
+[LegalConsultation](https://github.com/levifeyd/LegalConsultation) | Тестовое задание.Задание включает в себя web-приложение для клиента и юриста.| PHP,Laravel,HTML, CSS, Ajax,JQuery,SQL | Клиент оставялет заявку по катеогрии и юристы могут отвечать на заявки.В личном кабинете можно фильтровать заявки для роли клиента и роли юриста.
 [TestTask](https://github.com/levifeyd/TestTask) | Тестовое задание на стажировку| Laravel, PHP, HTML CSS, SQL(MySQL), bootsrap| Ссылка на домен https://laravel-b8vz.frb.io/. Приложение включает : (Авторизацию + Регистрацию), две роли : Пользователь и Менеджер, форма обратной связи, страницу со списком заявок на обюратную связь и отправкой email на почту Менеджера.
 [Web-application](https://github.com/levifeyd/Web-application) | Веб-приложение, которое помогает разместить объявление о своих коммерческих услугах, содержит административную панель. | PHP, HTML CSS, SQL(MySQL)| Использовался локальный сервер OpenServer, административная панель позволяет редактировать содержимое сайта с объявлением. Для хранения данных использовал базу данных MySQL.
 [MobileExcnageRate](https://github.com/levifeyd/MobileExcnageRate) | Мобильное приложение, котороые помогает узнать курс валют | Kotlin (Retrofit, coroutines) | Прилоежние подключается к API "Приват Банк", делает запрос на получение данных о курсе валют
