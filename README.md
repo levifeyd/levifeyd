@@ -11,7 +11,7 @@
 Проект | Краткое описание | Стек | Комментарий
 --------|-----------------|------|-------
 [TestOnlyDigital](https://github.com/levifeyd/TestOnlyDigital) | Тестовое задание для компании OnlyDigital| Laravel, PHP, SQL(MySQL)| Реализация API сервиса на Laravel
-[LegalConsultation](https://github.com/levifeyd/LegalConsultation) | Тестовое задание.Задание включает в себя web-приложение для клиента и юриста.| PHP,Laravel,HTML, CSS, Ajax,JQuery,SQL | Клиент оставялет заявку по катеогрии и юристы могут отвечать на заявки.В личном кабинете можно фильтровать заявки для роли клиента и роли юриста. Подробное описание в Readme.md файле.
+[LegalConsultation](https://github.com/levifeyd/LegalConsultation) | Тестовое задание.Задание включает в себя web-приложение для клиента и юриста.| PHP,Laravel,HTML, CSS, Ajax,JQuery,SQL |Подробное описание в Readme.md файле.
 [TestTask](https://github.com/levifeyd/TestTask) | Тестовое задание на стажировку| Laravel, PHP, HTML CSS, SQL(MySQL), bootsrap| Ссылка на домен https://laravel-b8vz.frb.io/. Подробное описание в Readme.md файле.
 [Web-application](https://github.com/levifeyd/Web-application) | Веб-приложение, которое помогает разместить объявление о своих коммерческих услугах, содержит административную панель. | PHP, HTML CSS, SQL(MySQL)| Использовался локальный сервер OpenServer. Подробное описание и скриншоты приложения в Readme.md файле.
 [MobileExcnageRate](https://github.com/levifeyd/MobileExcnageRate) | Мобильное приложение, котороые помогает узнать курс валют | Kotlin (Retrofit, coroutines) | Прилоежние подключается к API "Приват Банк", делает запрос на получение данных о курсе валют
