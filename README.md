@@ -10,7 +10,7 @@
 
 Проект | Краткое описание | Стек | Комментарий
 --------|-----------------|------|-------
-[Library](https://github.com/levifeyd/Library) | Система управления бибилиотекой| Laravel, PHP, SQL(MySQL), HTML,CSS| Система управления бибилиотекой. CRUD для книг, категорий книг, сотрудников.Подробное описание в Readme файле.
+[Library](https://github.com/levifeyd/Library) | Система управления бибилиотекой| Laravel, PHP, SQL(MySQL), HTML,CSS, JavaScript| Система управления бибилиотекой. CRUD для книг, категорий книг, сотрудников.Подробное описание в Readme файле.
 [TestOnlyDigital](https://github.com/levifeyd/TestOnlyDigital) | Тестовое задание для компании OnlyDigital| Laravel, PHP, SQL(MySQL)| Реализация API сервиса на Laravel
 [LegalConsultation](https://github.com/levifeyd/LegalConsultation) |Веб-приложение. Тестовое задание.Задание включает в себя web-приложение для клиента и юриста.| PHP,Laravel,HTML, CSS, Ajax,JQuery,SQL |Подробное описание в Readme.md файле.
 [TestTask](https://github.com/levifeyd/TestTask) | Веб-приложение. Тестовое задание.| Laravel, PHP, HTML CSS, SQL(MySQL), bootsrap| Ссылка на домен https://laravel-b8vz.frb.io/. Подробное описание в Readme.md файле.
