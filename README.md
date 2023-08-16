@@ -10,6 +10,7 @@
 
 Проект | Краткое описание | Стек | Комментарий
 --------|-----------------|------|-------
+[HonestMedicine](https://github.com/levifeyd/HonestMedicine) | REST API CRUD система | Laravel, PHP, SQL(MySQL), HTML,CSS| REST API CRUD для компонентов "Items"с web-интерфейсом(Bootstrap).Подробное описание в Readme файле.
 [Library](https://github.com/levifeyd/Library) | Система управления бибилиотекой| Laravel, PHP, SQL(MySQL), HTML,CSS, JavaScript| Система управления бибилиотекой. CRUD для книг, категорий книг, сотрудников.Подробное описание в Readme файле.
 [TestOnlyDigital](https://github.com/levifeyd/TestOnlyDigital) | Тестовое задание для компании OnlyDigital| Laravel, PHP, SQL(MySQL)| Реализация API сервиса на Laravel
 [LegalConsultation](https://github.com/levifeyd/LegalConsultation) |Веб-приложение. Тестовое задание.Задание включает в себя web-приложение для клиента и юриста.| PHP,Laravel,HTML, CSS, Ajax,JQuery,SQL |Подробное описание в Readme.md файле.
